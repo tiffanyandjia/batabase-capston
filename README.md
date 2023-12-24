@@ -1,6 +1,4 @@
-Creating a well-organized and informative README file for your GitHub project is essential, especially for a comprehensive project like the one you've developed for Little Lemon's booking system. Here's a structured outline and content suggestions for your README:
 
----
 
 ### Little Lemon Booking System
 
